@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "paths": {
+    "/items": {
+      "name": "/items",
+      "lambdaFunction": "items",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/items2": {
+      "name": "/items2",
+      "lambdaFunction": "items2",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/express1": {
+      "name": "/express1",
+      "lambdaFunction": "myfirststaticwebappe090e574",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/express2": {
+      "name": "/express2",
+      "lambdaFunction": "myfirststaticwebappe090e574",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/items3": {
+      "name": "/items3",
+      "lambdaFunction": "items",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/python1": {
+      "name": "/python1",
+      "lambdaFunction": "pythonfunction",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
