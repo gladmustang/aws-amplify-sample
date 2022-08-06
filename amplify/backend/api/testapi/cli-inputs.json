@@ -35,13 +35,6 @@
       "permissions": {
         "setting": "open"
       }
-    },
-    "/python1": {
-      "name": "/python1",
-      "lambdaFunction": "pythonfunction",
-      "permissions": {
-        "setting": "open"
-      }
     }
   }
 }
