@@ -15,7 +15,7 @@ async function getUser() {
 
 
 function App() {
-  const [user, setUser] = useState("default user");
+  const [user, setUser] = useState("default gg");
   useEffect( () => {
     (async () => {
       let result = await getUser()

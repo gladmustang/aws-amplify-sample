@@ -23,7 +23,7 @@
         },
         "myfirststaticwebappe090e574": {
           "deploymentBucketName": "amplify-myfirststaticwebapp-dev-180603-deployment",
-          "s3Key": "amplify-builds/myfirststaticwebappe090e574-513036516e6b4f525073-build.zip"
+          "s3Key": "amplify-builds/myfirststaticwebappe090e574-4d4651764c4548325a34-build.zip"
         }
       },
       "hosting": {
