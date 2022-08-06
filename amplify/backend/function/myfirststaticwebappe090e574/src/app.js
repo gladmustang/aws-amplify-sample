@@ -32,11 +32,11 @@ app.use(function(req, res, next) {
 
 app.get('/express1', function(req, res) {
   // Add your code here
-  res.json({success: 'get call succeed!', url: req.url});
+  res.json({success: 'sjl get call succeed!', url: req.url});
 });
 
 app.get('/express1/*', function(req, res) {
-  // Add your code here
+  // Add your code heren
   res.json({success: 'get call succeed!', url: req.url});
 });
 
